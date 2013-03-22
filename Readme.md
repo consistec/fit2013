@@ -22,6 +22,8 @@ Submissions are taken in to account until **Midnight May, 5th 2013**.
   
 In order to submit your solution either send us a pull request here on [Github](https://github.com/consistec/fit2013) or send us an email (with a single packaged tar or zip attachment) to [fit2013@consistec.de](mailto:fit2013@consistec.de).  
   
+You can download the example files and this readme from [here](https://github.com/consistec/fit2013/archive/master.zip).  
+  
 Your solution should contain:
 
 -  the complete code needed to compile the encoder binary
@@ -55,7 +57,9 @@ Die Einsendung mit der exotischsten Programmiersprache gewinnt einen _noch offen
 
 Einsendeschluss ist **Mitternacht des 5. Mai 2013**.  
   
-Um eine Lösung abzugeben, macht entweder hier auf [Github](https://github.com/consistec/fit2013) einen Pull-Request auf oder schickt uns eine email (mit einem einzigen gepackten tar oder zip Anhang) an [fit2013@consistec.de](mailto:fit2013@consistec.de).  
+Um eine Lösung abzugeben, macht entweder hier auf [Github](https://github.com/consistec/fit2013) einen Pull-Request auf oder schickt uns eine email (mit einem einzigen gepackten tar oder zip Anhang) an [fit2013@consistec.de](mailto:fit2013@consistec.de). 
+  
+Die Beispieldateien und diese Readme-Datei findet ihr [hier](https://github.com/consistec/fit2013/archive/master.zip).   
   
 Eure Lösung muss enthalten:
 
