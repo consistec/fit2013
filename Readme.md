@@ -1,5 +1,7 @@
 # FIT Programming Contest
 
+![The 1st Prize](http://images.apple.com/ipad-mini/overview/images/hero.jpg)
+
 _Deutsche Version weiter unten_
 
 ## What we expect
@@ -12,9 +14,9 @@ You should be able to guess the encoding with help of the input files in the dir
 
 ## What you can win
 
-We will draw the winner of the _price to be named_ from all working submissions.  
+We will draw the winner of the [iPad mini Wi-Fi + Cellular 16GB](http://www.apple.com/ipad-mini/overview/) from all working submissions.  
   
-The submission using the most exotic programming language will win a _price to be named 2_. Furthermore we will reward the best submission (as seen by us) with a _price to be named3_.
+The submission using the most exotic programming language will win an [Amazon gift card amounting 100 Euros](http://www.amazon.de/gp/gc/). Furthermore we will reward the best submission (as seen by us) with a [Samsung Galaxy SIII 16GB](http://www.samsung.com/uk/consumer/mobile-devices/smartphones/android/GT-I9300MBDBTU).
 
 ## How to participate
 
@@ -39,6 +41,8 @@ What we do not require:
 
 #### Deutsche Version
 
+# FIT Programmierwettbewerb
+
 ## Was wir erwarten
 
 Wir wollen dass ihr einen Textkodierer schreibt. Das Programm sollte eine Eingabedatei einlesen und den kodierten Text in eine Ausgabedatei schreiben. Der Programmaufruf sollte so aussehen:
@@ -49,9 +53,9 @@ Ihr solltet in der Lage sein, die Kodierung anhand der Eingabedateien in [input]
 
 ## Was kann man gewinnen
 
-Aus allen funktionierenden Einsendungen werden wir den Gewinner eines _noch offenen Preises_ ziehen.  
+Aus allen funktionierenden Einsendungen werden wir den Gewinner eines [iPad mini Wi-Fi + Cellular 16GB](http://www.apple.com/de/ipad-mini/overview/) ziehen.  
   
-Die Einsendung mit der exotischsten Programmiersprache gewinnt einen _noch offenen Preis 2_. Und wir werden der (unserer Meinung nach) besten Einsendung einen _noch offenen Preis 3_ überreichen.
+ Die Einsendung mit der exotischsten Programmiersprache gewinnt einen [Amazon Gutschein in Höhe von 100 Euros](http://www.amazon.de/gp/gc/). Und wir werden der (unserer Meinung nach) besten Einsendung ein [Samsung Galaxy SIII 16GB](http://www.samsung.com/de/consumer/mobile-device/mobilephones/smartphones/GT-I9300MBDDBT) überreichen.
 
 ## Wie nimmt man teil
 
