@@ -39,6 +39,8 @@ What we do not require:
 -  a certain programming language
 -  a compiled binary
 
+____
+
 #### Deutsche Version
 
 # FIT Programmierwettbewerb
