@@ -2,7 +2,7 @@
 
 ![The 1st Prize](http://images.apple.com/ipad-mini/overview/images/hero.jpg)
 
-_Deutsche Version weiter unten_
+_[Deutsche Version weiter unten](#de)_
 
 ## What we expect
 
@@ -40,7 +40,7 @@ What we do not require:
 -  a compiled binary
 
 ____
-
+<a id="de"></a>
 #### Deutsche Version
 
 # FIT Programmierwettbewerb
