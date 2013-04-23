@@ -16,7 +16,7 @@ You should be able to guess the encoding with help of the input files in the dir
 
 We will draw the winner of the [iPad mini Wi-Fi + Cellular 16GB](http://www.apple.com/ipad-mini/overview/) from all working submissions.  
   
-The submission using the most exotic programming language will win an [Amazon gift card amounting 100 Euros](http://www.amazon.de/gp/gc/). Furthermore we will reward the best submission (as seen by us) with a [Samsung Galaxy SIII 16GB](http://www.samsung.com/uk/consumer/mobile-devices/smartphones/android/GT-I9300MBDBTU).
+The submission using the most exotic programming language will win an [Amazon gift card amounting 50 Euros](http://www.amazon.de/gp/gc/). Furthermore we will reward the best submission (as seen by us) with a [quadcopter assembly set](http://www.der-schweighofer.at/artikel/103593/hb_dji_f450_quadrocopter_artf).
 
 ## How to participate
 
@@ -56,7 +56,7 @@ Ihr solltet in der Lage sein, die Kodierung anhand der Eingabedateien in [input]
 
 Aus allen funktionierenden Einsendungen werden wir den Gewinner eines [iPad mini Wi-Fi + Cellular 16GB](http://www.apple.com/de/ipad-mini/overview/) ziehen.  
   
- Die Einsendung mit der exotischsten Programmiersprache gewinnt einen [Amazon Gutschein in Höhe von 100 Euros](http://www.amazon.de/gp/gc/). Und wir werden der (unserer Meinung nach) besten Einsendung ein [Samsung Galaxy SIII 16GB](http://www.samsung.com/de/consumer/mobile-device/mobilephones/smartphones/GT-I9300MBDDBT) überreichen.
+ Die Einsendung mit der exotischsten Programmiersprache gewinnt einen [Amazon Gutschein in Höhe von 50 Euros](http://www.amazon.de/gp/gc/). Und wir werden der (unserer Meinung nach) besten Einsendung einen [Quadcopter Bausatz](http://www.der-schweighofer.at/artikel/103593/hb_dji_f450_quadrocopter_artf) überreichen.
 
 ## Wie nimmt man teil
 
