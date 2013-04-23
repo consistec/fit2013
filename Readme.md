@@ -77,4 +77,4 @@ Eure Lösung muss enthalten:
 Was wir nicht fordern:
 
 -  eine bestimmte Programmiersprache
--  a kompiliertes Binary
+-  ein kompiliertes Binary
