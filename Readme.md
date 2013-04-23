@@ -46,7 +46,7 @@ ____
 
 ## Was wir erwarten
 
-Wir wollen dass ihr einen Textkodierer schreibt. Das Programm sollte eine Eingabedatei einlesen und den kodierten Text in eine Ausgabedatei schreiben. Der Programmaufruf sollte so aussehen:
+Wir wollen, dass ihr einen Textkodierer schreibt. Das Programm sollte eine Eingabedatei einlesen und den kodierten Text in eine Ausgabedatei schreiben. Der Programmaufruf sollte so aussehen:
 
     encoder input.txt output.txt
 
@@ -56,19 +56,19 @@ Ihr solltet in der Lage sein, die Kodierung anhand der Eingabedateien in [input]
 
 Aus allen funktionierenden Einsendungen werden wir den Gewinner eines [iPad mini Wi-Fi + Cellular 16GB](http://www.apple.com/de/ipad-mini/overview/) ziehen.  
   
- Die Einsendung mit der exotischsten Programmiersprache gewinnt einen [Amazon Gutschein in Höhe von 50 Euros](http://www.amazon.de/gp/gc/). Und wir werden der (unserer Meinung nach) besten Einsendung einen [Quadcopter Bausatz](http://www.der-schweighofer.at/artikel/103593/hb_dji_f450_quadrocopter_artf) überreichen.
+ Die Einsendung mit der exotischsten Programmiersprache gewinnt einen [Amazon Gutschein in Höhe von 50 Euro](http://www.amazon.de/gp/gc/). Und wir werden der (unserer Meinung nach) besten Einsendung einen [Quadcopter Bausatz](http://www.der-schweighofer.at/artikel/103593/hb_dji_f450_quadrocopter_artf) überreichen.
 
 ## Wie nimmt man teil
 
 Einsendeschluss ist **Mitternacht des 5. Mai 2013**.  
   
-Um eine Lösung abzugeben, macht entweder hier auf [Github](https://github.com/consistec/fit2013) einen Pull-Request auf oder schickt uns eine email (mit einem einzigen gepackten tar oder zip Anhang) an [fit2013@consistec.de](mailto:fit2013@consistec.de). 
+Um eine Lösung abzugeben, macht entweder hier auf [Github](https://github.com/consistec/fit2013) einen Pull-Request auf oder schickt uns eine E-Mail (mit einem einzigen gepackten tar oder zip Anhang) an [fit2013@consistec.de](mailto:fit2013@consistec.de). 
   
 Die Beispieldateien und diese Readme-Datei findet ihr [hier](https://github.com/consistec/fit2013/archive/master.zip).   
   
 Eure Lösung muss enthalten:
 
--  den kompletten code um das Binary zu kompilieren
+-  den kompletten Code um das Binary zu kompilieren
 -  eine Art Skript mit dem man das Binary automatisch bauen kann (sowas wie make, ant, maven, rake, etc.)
 -  die Ausgabedatei eures encoders aus der Eingabe [lorem_ipsum.txt](/input/lorem_ipsum.txt)
 -  anderer Code der geschrieben wurde um die Implementierung zu unterstützen (sowas wie _Tests_)
