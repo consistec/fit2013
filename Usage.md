@@ -1,6 +1,6 @@
 # Usage
 
-The solution is written with node.js
+The solution is written in node.js
 
 ```
 node encoding input.txt output.txt
