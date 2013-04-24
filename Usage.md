@@ -3,7 +3,7 @@
 The solution is written in node.js
 
 ```
-node encoding.js input.txt output.txt
+node encoder.js input.txt output.txt
 ```
 For more information check [NodeJS](http://nodejs.org)
 
