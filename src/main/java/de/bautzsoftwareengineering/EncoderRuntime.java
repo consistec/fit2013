@@ -26,9 +26,12 @@ public class EncoderRuntime {
             BufferedReader bufferedReaderIn = new BufferedReader(new InputStreamReader(fileInputStream));
             String currLine = bufferedReaderIn.readLine();
             encodingInput = currLine;
+            encodingInput += System.getProperty("line.separator");
             while (currLine != null) {
+
                 currLine = bufferedReaderIn.readLine();
                 encodingInput += currLine;
+                encodingInput += System.getProperty("line.separator");
             }
             fileInputStream.close();
         } catch (FileNotFoundException e) {
