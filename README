@@ -10,3 +10,10 @@ Bemerkungen:
 Die Ranges sind Annahmen, diese lassen sich aufgrund der vorliegenden Spezifikation eigentlich so nicht
 herleiten. Streng genommen dürfen eigentlich nur genau die Character gemappt werden,
 welche in den Input/Output Files spezifiziert sind.
+
+
+Add-On:
+Es gibt nun zusaetzlich einen dynamisch konfigurierbaren Encoder, welcher nur und genau die spezifizierten
+Character mappt.
+Start mittels java -jar dynencoder.jar
+Rest sollte selbsterklaerend sein, bzw. Challenge fuer euch :) Frohen 1. Mai :)
