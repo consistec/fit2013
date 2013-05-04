@@ -1,0 +1,3 @@
+@echo off
+
+javac de\consistec\fit2013\ArgRejectionReason.java de\consistec\fit2013\ArgValidator.java de\consistec\fit2013\EncodingTools.java de\consistec\fit2013\FileReaderTool.java de\consistec\fit2013\FileWriterTool.java de\consistec\fit2013\ArgRejectionReason.java de\consistec\fit2013\exceptions\FileReaderException.java de\consistec\fit2013\exceptions\FileWriterException.java de\consistec\fit2013\Encoder.java
